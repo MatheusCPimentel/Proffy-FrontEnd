@@ -1,9 +1,9 @@
 import React from 'react';
 
-function TeacherFrom() {
+function TeacherForm() {
   return (
     <h1>Teacher Form</h1>
-  )
+  );
 }
 
-export default TeacherFrom;
+export default TeacherForm;
